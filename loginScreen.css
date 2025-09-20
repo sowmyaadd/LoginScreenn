@@ -1,0 +1,41 @@
+.maindiv{
+    background-color: 	#71797E;
+    width:100%;
+    height:97vh;
+    margin: 0px !important;
+    display: flex;
+    position: relative;
+    /* align-items: center;
+    justify-content: center; */
+}
+.formdiv{
+    background-color:#686e72;
+    border-radius:10px;
+    padding:60px;
+}
+.centerdiv{
+   padding: 15px;
+   position: absolute;
+   margin-top: 100px;
+   margin-left: 500px ;
+}
+.btn{
+    background-color: green;
+    border:none;
+    border-radius:20px;
+    padding:10px;
+    margin-left:65px;
+    /* padding-right:30px; */
+
+}
+img{
+    margin-left:160px;
+}
+.inpbox{
+    padding: 15px;
+   outline:none;
+
+}
+.frm{
+    padding:20px;
+}
